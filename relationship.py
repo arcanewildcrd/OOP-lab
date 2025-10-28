@@ -1,7 +1,7 @@
 class RTracker:
     def __init__(self,partner):
         self.partner = partner
-        self._trust = 70
+        self.__trust = 70
         self._mood = "nonchalant"
         self._vibe = 500
         

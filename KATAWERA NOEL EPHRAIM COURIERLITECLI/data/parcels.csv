@@ -1,0 +1,4 @@
+parcel_id,recipient,priority,hub_id,destination,weight_kg
+P1001,Kurosaki,EXPRESS,H1,Kawagai Hostel Room 101,2.5
+P1002,Saboten,NORMAL,H2,Shiketsu Hostel Room 202,1.2
+P1003,Ryuguji,EXPRESS,H1,Kagami Block Room 110,3.0
